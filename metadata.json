@@ -1,0 +1,6 @@
+{
+  "name": "Voltix Smart Appliances",
+  "description": "A premium, futuristic, and professional web portal for Voltix Smart Appliances, showcase of energy-efficient solutions and IoT-enabled appliances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
