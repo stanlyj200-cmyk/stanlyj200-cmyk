@@ -4,7 +4,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/game-ironman/',
+  base: '/stanlyj200-cmyk/',
 
   plugins: [react(), tailwindcss()],
 
